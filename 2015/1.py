@@ -17,6 +17,7 @@ answers = [floor, basement]
 
 for answer in answers:
     print(answer)
+    submit(answer)
 
 
 #submit(floor, part="a", day=1, year=2015)
