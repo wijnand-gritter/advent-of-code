@@ -3,10 +3,10 @@
 https://adventofcode.com/
 """
 from aocd import data, submit
-
-#########################
-# START SOLUTION PART 1 #
-#########################
+import re
+##################
+# START SOLUTION #
+##################
 
 # Submit to AOC
 #submit(answer)
